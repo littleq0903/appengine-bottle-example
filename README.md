@@ -2,9 +2,7 @@
 appengine-bottle-example
 ========================
 
-<div style="text-align: center;">
-<img style="height:100px;" src="https://f.cloud.github.com/assets/374786/793867/ea1ed97c-ec48-11e2-8a00-878e1df50203.png" alt="google app engine with bottle">
-</div>
+![appengine bottle](https://f.cloud.github.com/assets/374786/793873/e941a9de-ec49-11e2-9440-bb16ed2617ca.png)
 
 Example for quickly bootstrapping a Google App Engine project with Bottle Python web framework.
 
