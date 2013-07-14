@@ -1,4 +1,4 @@
-<img src="" alt="google app engine with bottle">
+<img style="width:150px;" src="https://f.cloud.github.com/assets/374786/793867/ea1ed97c-ec48-11e2-8a00-878e1df50203.png" alt="google app engine with bottle">
 
 appengine-bottle-example
 ========================
