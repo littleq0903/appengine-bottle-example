@@ -1,3 +1,5 @@
+<img src="" alt="google app engine with bottle">
+
 appengine-bottle-example
 ========================
 
@@ -23,3 +25,4 @@ You need to install Google App Engine SDK in your computer, and make sure it is 
 #### HOW DO I KNOW I AM DOING IT RIGHT?
 	
 Open your terminal, and just type `dev_appserver`, if it didn't show `Command not found` but the manual of that command, than you're doing it right ;)
+
