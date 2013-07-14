@@ -1,8 +1,7 @@
-
 appengine-bottle-example
 ========================
 
-![appengine bottle](https://f.cloud.github.com/assets/374786/793873/e941a9de-ec49-11e2-9440-bb16ed2617ca.png)
+![appengine bottle](https://f.cloud.github.com/assets/374786/793875/5893b7aa-ec4a-11e2-87f6-28fd79dcdf99.png)
 
 Example for quickly bootstrapping a Google App Engine project with Bottle Python web framework.
 
